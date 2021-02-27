@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1614442495395,
+  "timestamp": 1614459944522,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a9231ac298fe3513b8ee.js",
+        "/main.e367593a3d1dfb09003b.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.7b63b9fd40098a2e8207.js",
@@ -49,7 +49,8 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/svg/hero-img.svg"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
@@ -67,11 +68,12 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/svg/hero-img.svg": "9ea516ccf01d966f014818abc2d7cc8376a9f53a",
     "/assets/svg/logo-mobile.svg": "b83c9e6de1ef6e169493a6d24a91afa453dfc3b9",
     "/assets/svg/logo.svg": "be9c394fc161571de9f44b73f1a92d8c34f85d51",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "c01449b5e7d6f37eceda6b7012fcdd78ef1c4966",
-    "/main.a9231ac298fe3513b8ee.js": "6601221e1bd0f7cc0f4a2dbbef3cad671d907c66",
+    "/index.html": "49bb10e51efeffda5bb66e29f6822fa18756229e",
+    "/main.e367593a3d1dfb09003b.js": "108ec1ec3620f91ad16375d0c9ad8e2402e7584a",
     "/manifest.webmanifest": "ac1691b36d8fddaaece4ccfe14d73d9317d264c3",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
