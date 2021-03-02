@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1614631504512,
+  "timestamp": 1614719438244,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.9cd559c1b3fc4025efe5.js",
+        "/main.6b1faa2dfa33ef120248.js",
         "/manifest.webmanifest",
         "/polyfills.6abdde2583a2e01a2350.js",
         "/runtime.7b63b9fd40098a2e8207.js",
-        "/styles.c5e6efb383763a66172f.css"
+        "/styles.e0b573bd0eeb7ac70b12.css"
       ],
       "patterns": []
     },
@@ -42,6 +42,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/background-img.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -51,7 +52,17 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/svg/about-us-img.svg",
-        "/assets/svg/hero-img.svg"
+        "/assets/svg/angular-img.svg",
+        "/assets/svg/blazor-img.svg",
+        "/assets/svg/css-img.svg",
+        "/assets/svg/dotnet-img.svg",
+        "/assets/svg/hero-img.svg",
+        "/assets/svg/html-img.svg",
+        "/assets/svg/java-img.svg",
+        "/assets/svg/javascript-img.svg",
+        "/assets/svg/spring-img.svg",
+        "/assets/svg/vue-img.svg",
+        "/background-img.50505726f01b54627e2f.png"
       ],
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
@@ -61,6 +72,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/background-img.png": "83748095cd93fb37bf457563d316af25b50cd386",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -70,16 +82,26 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/svg/about-us-img.svg": "3ff1992dcf312b4df783a6dd8e9f5ad29cd86997",
+    "/assets/svg/angular-img.svg": "f183cc5d96f06afb4ee370718292bc3a74addfb9",
+    "/assets/svg/blazor-img.svg": "bee7d41cbd0f75bddaf09cbe1bf7657a976e4ced",
+    "/assets/svg/css-img.svg": "4fce9d64f1ff1a5959e6e9df549b48c77d73a401",
+    "/assets/svg/dotnet-img.svg": "d73999ecd5d356ae847dd614bf21fb09e80d5d47",
     "/assets/svg/hero-img.svg": "9ea516ccf01d966f014818abc2d7cc8376a9f53a",
+    "/assets/svg/html-img.svg": "facef589bc52438a43dc5c13e3f8cd253f6e42dc",
+    "/assets/svg/java-img.svg": "5aa1ae076d3cdedd54f17757dc2d0fb07e711882",
+    "/assets/svg/javascript-img.svg": "382f670926aeb42c983c577534e9896eff080883",
     "/assets/svg/logo-mobile.svg": "b83c9e6de1ef6e169493a6d24a91afa453dfc3b9",
     "/assets/svg/logo.svg": "be9c394fc161571de9f44b73f1a92d8c34f85d51",
+    "/assets/svg/spring-img.svg": "edfd691f3be7fa79a5f192daef5a4821b2cc68fb",
+    "/assets/svg/vue-img.svg": "3709c057c0c21cda47523ba2042c5761828fd067",
+    "/background-img.50505726f01b54627e2f.png": "83748095cd93fb37bf457563d316af25b50cd386",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "ec0e78178c0fdd129d01d1cc4e772084e0af0c81",
-    "/main.9cd559c1b3fc4025efe5.js": "fc7b6b5ae9ee13273ed2ad879fb27c7c3868ff38",
+    "/index.html": "e209aff38c89398ba9ef8cd728cd5cf27a2bd14a",
+    "/main.6b1faa2dfa33ef120248.js": "48680677ab069307ca28dd04d65a474ae9df27b9",
     "/manifest.webmanifest": "ac1691b36d8fddaaece4ccfe14d73d9317d264c3",
     "/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.c5e6efb383763a66172f.css": "e0ed53fcc8cef02636080cc2c20faf9d1dc949ed"
+    "/styles.e0b573bd0eeb7ac70b12.css": "691b6be0e135974bb7aa69eed1f7de19db8ca0b2"
   },
   "navigationUrls": [
     {
