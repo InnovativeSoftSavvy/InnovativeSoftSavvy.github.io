@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1616958157233,
+  "timestamp": 1616967355666,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
